@@ -98,5 +98,9 @@ ModelAndView modelAndView = new ModelAndView("encuesta/formulario", "command", u
 		return skillList;
 	}
 
+	//** cambio 3: para sprint-2
+	
+	
+	
 
 }

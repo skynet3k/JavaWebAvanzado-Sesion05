@@ -45,6 +45,15 @@ public class UsuarioRegistroValidacionController {
 
 		return "registroValidacion/resultado";
 	}
+/**
+ * 
+ * cambio 1
+ */
 
-
+	
+	/**
+	 * 
+	 * cambio 2 para el sprint!
+	 * 
+	 */
 }
